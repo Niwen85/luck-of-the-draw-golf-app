@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    margin-top: 300px;
+}
+
+header{
+    color: rgb(5, 77, 26);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.enter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+h2{
+    color: rgb(5, 77, 26);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
